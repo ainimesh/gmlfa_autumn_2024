@@ -10,9 +10,8 @@ layout: home
 - Slot : V3       
 - Classroom : NC-421
 
-### | Credits  | L-T-P |
-| -- | ------ |
-| 3  | 3-0-0  |
+## Credits : 3
+## LTP : 3-0-0
 
 
 ## Grading Pilicy
