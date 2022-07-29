@@ -10,7 +10,7 @@ layout: home
 - Slot : V3       
 - Classroom : NC-421
 
-| Credits  | L-T-P |
+### | Credits  | L-T-P |
 | -- | ------ |
 | 3  | 3-0-0  |
 
