@@ -1,12 +1,26 @@
 # Site settings
 course_name: Graph Machine Learning Foundations and Applications
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "Graphs have widely been used in representing problem scenarios in different domains.
+        Subsequently, several computational models have been developed to process graph
+        representations. Machine learning, like in many other domains, have been used to model
+        different tasks on graphs including graph clustering, node classification, link prediction etc. Deep
+        learning models though are proven to be very effective in domains like computer vision, text
+        processing etc., cannot be directly applicable in irregular data representation like graphs.
+        Subsequently, a new paradigm of machine learning (graph machine learning) has emerged. Right
+        from its emergence, it has been widely adopted in diverse domains including social networks,
+        protein-protein interaction networks, drug disease interactions etc. Along with its effectiveness
+        on graph data, graph machine learning has also improved the state-of-art in the domains (e.g.,
+        computer vision, text processing) where traditional deep learning architectures have ruled.
+        
+        Considering the rapid adoption of graph machine learning and its effectiveness, this course is
+        proposed to develop the theoretical foundation of graph machine learning models and their use in
+        real world applications in diverse domains."
 course_semester: "Autumn,2022"
 
 baseurl: "/GMLFA-AI61007" # the subpath of your site, e.g. /blog/
 url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
 
-schoolname: "CoE-AI"
+schoolname: "CoE-AI, IIT Kharagpur"
 schoolurl: "http://www.ai.iitkgp.ac.in/"
 #twitter_username: username 
 
