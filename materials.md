@@ -14,6 +14,6 @@ permalink: /materials/
 2. **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020
 3. **Deep Learning**, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016
 
-## Additional Course Materials
+## Additional Course Material
 
 * Additional Learning Material will be added as we move forward in the course
