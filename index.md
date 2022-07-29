@@ -1,4 +1,11 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+# Class Hours
+- Thursday : 03:00 PM to 03:55 PM
+- Thursady : 04:00 PM to 04:55 PM
+- Friday   : 03:00 PM to 03:55 PM
+
+## SLot and Room
+- Slot : V3
+- Room : --
