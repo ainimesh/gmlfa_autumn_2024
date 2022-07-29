@@ -8,7 +8,12 @@ layout: home
 
 ## Slot and Classroom
 - Slot : V3       
-- Classroom : --
+- Classroom : NC-421
+
+| Credits  | L-T-P |
+| -- | ------ |
+| 3  | 3-0-0  |
+
 
 ## Grading Pilicy
 - Class Test : [60%]
