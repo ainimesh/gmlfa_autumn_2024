@@ -20,3 +20,9 @@ layout: home
     - End-Semester Examination: [40%]
 - Assignment: [10%]
 - Project: [20%]
+
+## Honor Code
+**Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.**
+- Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
+
+- You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
