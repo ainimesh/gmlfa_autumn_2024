@@ -10,8 +10,8 @@ layout: home
 - Slot : V3       
 - Classroom : NC-421
 
-## Credits : 3
-## LTP : 3-0-0
+## L-T-P & Credit
+- 3-0-0 (3 Credit)
 
 
 ## Grading Policy
