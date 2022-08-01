@@ -18,7 +18,7 @@ course_description:
 
 course_semester: "Autumn,2022"
 
-baseurl: "/GMLFA-AI61007" # the subpath of your site, e.g. /blog/
+baseurl: "/GMLFA-AI60007" # the subpath of your site, e.g. /blog/
 url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
 
 schoolname: "CoE-AI, IIT Kharagpur"

@@ -14,7 +14,7 @@ layout: home
 ## LTP : 3-0-0
 
 
-## Grading Pilicy
+## Grading Policy
 - Class Test : [60%]
 - Assignment and Topic Presentation : [15% + 15%]
 - Attendance and Class Participation : [10%]
