@@ -15,6 +15,8 @@ layout: home
 
 
 ## Grading Policy
-- Class Test : [60%]
-- Assignment and Topic Presentation : [15% + 15%]
-- Attendance and Class Participation : [10%]
+- Semester Examinations:
+    - Mid-Semester Examination: [30%]
+    - End-Semester Examination: [40%]
+- Assignment: [10%]
+- Project: [20%]
