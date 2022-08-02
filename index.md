@@ -27,4 +27,4 @@ layout: home
 
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
 
-<p>Some Markdown text with <span style="color:#da7b93;">some <em>blue</em> text</span>.</p>
+<span style="color:#da7b93;"><b>Grding Policy<b></span>
