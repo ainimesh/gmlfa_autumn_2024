@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-## **Class Hours**
+<h2 style="color: #da7b93;"><b>Class Hours</b></h2>
 - Thursday : 03:00 PM to 03:55 PM
 - Thursady : 04:00 PM to 04:55 PM
 - Friday   : 03:00 PM to 03:55 PM
@@ -26,6 +26,3 @@ layout: home
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
 
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
-
-<span style="color:#da7b93;"><b>Grding Policy<b>.</span>
-<h2 style="color: #da7b93;"><b>Course Description</b></h2>
