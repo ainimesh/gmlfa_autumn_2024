@@ -3,22 +3,9 @@ layout: home
 ---
 <h2 style="color: #da7b93;"><b>Course Logistics</b></h2>
 
-- **Lecture Hours:** Every `Thursday` from 03:00 PM to 04:55 PM (2 Hrs) and `Friday` from 03:00 PM to 03:55 PM (1 Hr).
+- **Lecture Hours:** `Thursday [03:00 PM to 04:55 PM] (2 Hrs)` and `Friday [03:00 PM to 03:55 PM] (1 Hr)`.
 - **Classroom:** Classes will happen in person in the `NC-421`.
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`.
-
-
-<h2 style="color: #da7b93;"><b>Class Hours</b></h2>
-- Thursday : 03:00 PM to 03:55 PM
-- Thursady : 04:00 PM to 04:55 PM
-- Friday   : 03:00 PM to 03:55 PM
-
-<h2 style="color: #da7b93;"><b>Slot and Classroom</b></h2>
-- Slot : V3       
-- Classroom : NC-421
-
-<h2 style="color: #da7b93;"><b>L-T-P & Credits</b></h2>
-- 3-0-0 (3 Credits)
 
 
 <h2 style="color: #da7b93;"><b>Grading Policy</b></h2>
