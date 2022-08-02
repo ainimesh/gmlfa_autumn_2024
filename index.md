@@ -15,6 +15,12 @@ layout: home
 - Assignment: [10%]
 - Project: [20%]
 
+<h2 style="color: #da7b93;"><b>Prerequisites</b></h2>
+Students are expected to have the following background
+
+- **Machine Learning:** MLFA (AI42001), ML (CS60050)
+- **Deep Learning:** DLFA (AI61002), DL (CS60010)
+
 <h2 style="color: #da7b93;"><b>Honor Code</b></h2>
 Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
