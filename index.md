@@ -27,4 +27,5 @@ layout: home
 
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
 
-<span style="color:#da7b93;"><b>Grding Policy<b></span>
+<span style="color:#da7b93;"><b>Grding Policy<b>.</span>
+<h2 style="color: #da7b93;"><b>Course Description</b></h2>
