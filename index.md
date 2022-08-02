@@ -21,9 +21,7 @@ layout: home
 - Assignment: [10%]
 - Project: [20%]
 
-<h2 style="color: #da7b93;">Honor Code</b></h2>
-
-*Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.*
+<h2 style="color: #da7b93;"><b>Honor Code</b></h2>
+Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
-
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
