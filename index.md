@@ -26,3 +26,5 @@ layout: home
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
 
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
+
+<p>Some Markdown text with <span style="color:#da7b93;">some <em>blue</em> text</span>.</p>
