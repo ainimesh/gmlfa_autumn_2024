@@ -12,3 +12,9 @@ There will be only one assignment. Please follow the below given instructions.
 - He/she can use polpular blog writing platforms like GitHub, Medium etc. A manual on how to write blogs will be circulated.
 - Each student is required to prepare a video presentation on the chosen topic and the video needs to be uploaded on Youtube.
 - Each student must submit a link to his/her blog and a link to the uploaded video within the stipulated time period.
+
+<h2 style="color: #da7b93;"><b>Project</b></h2>
+
+**Instruction for Project**
+
+Detailed instructions will be provided soon.
