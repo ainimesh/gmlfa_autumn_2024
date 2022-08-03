@@ -4,9 +4,9 @@ title: Course Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/dl_on_graphs.jpg" width=175 align="right" %}
-{% include image.html url="/_images/grl.jpg" width=175 align="right" %}
 {% include image.html url="/_images/dl.jpg" width=175 align="right" %}
+{% include image.html url="/_images/grl.jpg" width=175 align="right" %}
+{% include image.html url="/_images/dl_on_graphs.jpg" width=175 align="right" %}
 
 ## Books
 
