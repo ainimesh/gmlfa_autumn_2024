@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-03
-title: Sample Hands-on
+title: Sample Tutorial
 tldr: "Discription will be available here."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
