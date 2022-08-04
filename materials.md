@@ -4,7 +4,7 @@ title: Course Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/Gnn_foundation.jpg" width=125 align="right" %}
+{% include image.html url="/_images/Gnn_foundation.jpg" src="https://link.springer.com/book/10.1007/978-981-16-6054-2" width=125 align="right" %}
 {% include image.html url="/_images/dl.jpg" width=125 align="right" %}
 {% include image.html url="/_images/grl.jpg" width=125 align="right" %}
 {% include image.html url="/_images/dl_on_graphs.jpg" width=125 align="right" %}
