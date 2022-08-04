@@ -20,8 +20,8 @@ permalink: /materials/
 -------------------------------------------------------------------------------------------------------------------------------
 <h2 style="color: #da7b93;"><b>Datasets</b></h2>
 
-* **Open Graph Benchmarks**: [[link]](https://ogb.stanford.edu/)
-* **Network Data**: [[link]](https://networkrepository.com/networks.php)
+1. **Open Graph Benchmarks**: [[link]](https://ogb.stanford.edu/)
+2. **Network Data**: [[link]](https://networkrepository.com/networks.php)
 
 <h2 style="color: #da7b93;"><b>Tools</b></h2>
 
