@@ -25,7 +25,7 @@ permalink: /materials/
 
 <h2 style="color: #da7b93;"><b>Tools</b></h2>
 
-- **Libraries**
+1. **Libraries**
     - **NetworkX**:Network Analysis in Python [[link]](https://networkx.org/)
     - **Pytorch Geometric**: Pytorch Based GNN Library [[link]](https://pytorch-geometric.readthedocs.io/en/latest/#)
     - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library [[link]](https://www.dgl.ai/)
