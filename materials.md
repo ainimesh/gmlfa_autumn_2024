@@ -18,16 +18,17 @@ permalink: /materials/
 4. [**Graph Neural Networks**](https://link.springer.com/book/10.1007/978-981-16-6054-2), Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022
 
 
-## **Datasets**
+<h2 style="color: #da7b93;"><b>Datasets</b></h2>
 
 - **Open Graph Benchmarks**: [[link]](https://ogb.stanford.edu/)
-- **Network Data**: [link](https://networkrepository.com/networks.php)
+- **Network Data**: [[link]](https://networkrepository.com/networks.php)
 
-## **Tools**
+<h2 style="color: #da7b93;"><b>Tools</b></h2>
+
 - **Libraries**
-    - **NetworkX**:Network Analysis in Python [link](https://networkx.org/)
-    - **Pytorch Geometric**: Pytorch Based GNN Library [link](https://pytorch-geometric.readthedocs.io/en/latest/#)
-    - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library [link](https://www.dgl.ai/)
+    - **NetworkX**:Network Analysis in Python [[link]](https://networkx.org/)
+    - **Pytorch Geometric**: Pytorch Based GNN Library [[link]](https://pytorch-geometric.readthedocs.io/en/latest/#)
+    - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library [[link]](https://www.dgl.ai/)
 
 ## **Additional Course Material**
 
