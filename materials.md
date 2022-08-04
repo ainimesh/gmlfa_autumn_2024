@@ -17,7 +17,7 @@ permalink: /materials/
 3. **Deep Learning**, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016 [[link]](https://www.deeplearningbook.org/)
 4. **Graph Neural Networks**, Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022 [[link]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 <h2 style="color: #da7b93;"><b>Datasets</b></h2>
 
 - **Open Graph Benchmarks**: [[link]](https://ogb.stanford.edu/)
