@@ -4,10 +4,10 @@ title: Course Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/dl.jpg" width=110 align="right" %}
-{% include image.html url="/_images/grl.jpg" width=110 align="right" %}
-{% include image.html url="/_images/dl_on_graphs.jpg" width=110 align="right" %}
-{% include image.html url="/_images/Gnn_foundation.jpg" width=110 align="right" %}
+{% include image.html url="/_images/dl.jpg" width=125 align="right" %}
+{% include image.html url="/_images/grl.jpg" width=125 align="right" %}
+{% include image.html url="/_images/dl_on_graphs.jpg" width=125 align="right" %}
+{% include image.html url="/_images/Gnn_foundation.jpg" width=125 align="right" %}
 
 
 ## Books
