@@ -20,7 +20,7 @@ permalink: /materials/
 
 ## **Datasets**
 
-- **Open Graph Benchmarks**: [link](https://ogb.stanford.edu/)
+- **Open Graph Benchmarks**: [[link]](https://ogb.stanford.edu/)
 - **Network Data**: [link](https://networkrepository.com/networks.php)
 
 ## **Tools**
