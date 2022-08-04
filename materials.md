@@ -16,7 +16,7 @@ permalink: /materials/
 2. **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020
 3. **Deep Learning**, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016
 4. **Graph Neural Networks**, Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022
-{% include image.html url="/_images/Gnn_foundation.jpg.jpg" width=100 align="right" %}
+{% include image.html url="/_images/Gnn_foundation.jpg" width=100 align="right" %}
 
 ## Additional Course Material
 
