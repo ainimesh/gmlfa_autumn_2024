@@ -34,3 +34,33 @@ permalink: /materials/
 <h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
 
 * Additional Learning Material will be added as we move forward in the course
+
+<div class="table table-striped table-bordered" id="schedule" style="margin-top: 20px">
+    <br>
+    <table class="table">
+        <thead>
+            <tr class="active">
+                <th scope="col" ><b>Date</b></th>
+	            <th scope="col" ><b>Title</b></th>
+	            <th scope="col" ><b>Slides</b></th>	 
+	            <th scope="col" ><b>Video</b></th>
+	            <th scope="col" ><b>Extra Reading</b></th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 1</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td>04-08-22</td>
+                <td><b>Introduction to Graph Machine Leanring + Course logistics</b></td>
+                <td>
+                    [<a href="https://drive.google.com/file/d/14OpAqtylts1FX3EjpMyRMfTfIb7wLCi3/view?usp=sharing" target="_blank">Introduction</a>]
+                </td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
