@@ -29,6 +29,7 @@ permalink: /materials/
     - **NetworkX**:Network Analysis in Python [[link]](https://networkx.org/)
     - **Pytorch Geometric**: Pytorch Based GNN Library [[link]](https://pytorch-geometric.readthedocs.io/en/latest/#)
     - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library [[link]](https://www.dgl.ai/)
+    - **Spektral**: Python Based GNN Library [[link]](https://graphneural.network/)
 
 <h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
 
