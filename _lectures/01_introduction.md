@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-10
-title: Tutorial-1: Understanding Graphs with NetworkX
+title: Understanding Graphs with NetworkX
 tldr: "In this tutorial we discussed NetwokX library to deal with Graph data."
 thumbnail: /static_files/Tutorials/networkx.jpg
 links: 
