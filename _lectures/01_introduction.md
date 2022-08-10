@@ -1,17 +1,14 @@
 ---
 type: lecture
-date: 2022-08-03
-title: Sample Hands-on
-tldr: "Discription will be available here."
-thumbnail: /static_files/presentations/lec.jpg
+date: 2022-08-10
+title: Tutorial-1: Understanding Graphs with NetworkX
+tldr: " In this tutorial we discussed NetwokX library to deal with Graph data."
+thumbnail: /static_files/Tutorials/networkx.png
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
+    - url: /static_files/Tutorials/Graphs_with_NetworkX.ipynb
       name: codes
-    - url: https://google.com
-      name: slides
+    - url: https://drive.google.com/file/d/1hjepmPTvd_RnSGX27xNS7kecJ2jqk6eI/view?usp=sharing
+      name: Video
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Readings 1](https://networkx.org/documentation/stable/reference/index.html)
