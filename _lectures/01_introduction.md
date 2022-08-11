@@ -9,7 +9,7 @@ links:
       name: notes
     - url: /static_files/Tutorials/Graphs_with_NetworkX.ipynb
       name: codes
-    - url: https://drive.google.com/file/d/1hjepmPTvd_RnSGX27xNS7kecJ2jqk6eI/view?usp=sharing
+    - url: https://youtu.be/h08RW3AIBVg
       name: Video
 ---
 **Suggested Readings:**
