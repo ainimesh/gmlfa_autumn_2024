@@ -3,7 +3,9 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-**Instructions for Assignment**
+**Assignment Timeline Flowchart**
+
+![][\_images\assignment_croped.jpg]
 
 There will be only one assignment. Please follow the below given instructions.
 - Each student is required to choose one topic from the existing state-of-the-art graph machine learning algorithms to real-world applications. 
@@ -15,6 +17,6 @@ There will be only one assignment. Please follow the below given instructions.
 
 <h2 style="color: #da7b93;"><b>Project</b></h2>
 
-**Instruction for Project**
+**Project Timeline Flowchart**
 
 Detailed instructions will be provided soon.
