@@ -7,16 +7,32 @@ permalink: /assignments/
 
 ![](/_images/assignment_croped.jpg)
 
-There will be only one assignment. Please follow the below given instructions.
-- Each student is required to choose one topic from the existing state-of-the-art graph machine learning algorithms to real-world applications. 
-- He/she must submit the proposed topic name within the stipulated time.
-- Each student is required to prepare a blog tutorial explaining the  chosen topic with code implementation (if necessary). 
-- He/she can use polpular blog writing platforms like GitHub, Medium etc. A manual on how to write blogs will be circulated.
-- Each student is required to prepare a video presentation on the chosen topic and the video needs to be uploaded on Youtube.
-- Each student must submit a link to his/her blog and a link to the uploaded video within the stipulated time period.
+**Key Points**
+
+There will be only one assignment. Please follow the below given instructions:
+
+- The students group will pick-up the Topic.
+- Write a Blog Containing:
+    - Theory with good visualization.
+    - Code walk through
+    - Video recording of explaining blog (max 15 minutes)
+- Google form will be circuated in due time for submission of assignment.
 
 <h2 style="color: #da7b93;"><b>Project</b></h2>
 
 **Project Timeline Flowchart**
 
-Detailed instructions will be provided soon.
+![](/_images/Project_cropped.jpg)
+
+**Proposal Format**
+
+- The Problem Statement.
+- Dataset to be used.
+- Why do you think your Project is Interesting ? (Explanation).
+- Your Novel Idea ? If not, mention the resources containing the idea.
+
+**Final Submission Format**
+
+- Google form will be circulated in due time to collect the following:
+    - Github link to the code with proper documentation.
+    - 15 minutes (max) video link `explaining the project not the code`.
