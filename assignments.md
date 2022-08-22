@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 **Assignment Timeline Flowchart**
 
-![][/_images/assignment_croped.jpg]
+![](/_images/assignment_croped.jpg)
 
 There will be only one assignment. Please follow the below given instructions.
 - Each student is required to choose one topic from the existing state-of-the-art graph machine learning algorithms to real-world applications. 
