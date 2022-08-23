@@ -19,6 +19,7 @@ There will be only one assignment. Please follow the below given instructions:
 - Google form will be circuated in due time for submission of assignment.
 
 <h2>Topics for Assignment</h2>
+<p><a title="Download problems (pdf)" href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing"><i class="fas fa-file-pdf"></i></a></p>
 <p>Open the <a href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing">PDF</a></p>
 
 <h2 style="color: #da7b93;"><b>Project</b></h2>
