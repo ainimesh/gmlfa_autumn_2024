@@ -14,7 +14,7 @@ There will be only one assignment. Please follow the below given instructions:
 - The students group will pick-up the Topic.
 - Write a Blog Containing:
     - Theory with good visualization.
-    - Code walk through
+    - Code walk through `(Optional)`
     - Video recording of explaining blog (max 15 minutes)
 - Google form will be circuated in due time for submission of assignment.
 
