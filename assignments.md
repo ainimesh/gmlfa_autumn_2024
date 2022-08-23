@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 **Assignment Timeline Flowchart**
 
-![](/_images/assignment_croped.jpg)
+![](/_images/assignment.jpg)
 
 **Key Points**
 
