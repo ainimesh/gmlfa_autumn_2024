@@ -19,7 +19,7 @@ There will be only one assignment. Please follow the below given instructions:
 - Google form will be circuated in due time for submission of assignment.
 
 <h1>Topics for Assignment</h1>
-    <p>Open the <a href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing">PDF</a></p>
+<p>Open the <a href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing">PDF</a></p>
 
 <h2 style="color: #da7b93;"><b>Project</b></h2>
 
