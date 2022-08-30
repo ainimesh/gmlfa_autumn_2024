@@ -35,36 +35,37 @@ permalink: /materials/
 
 * Additional Learning Material will be added as we move forward in the course
 
-<table class="table" >
-        <thead>
-            <tr class="active">
-                <th width =10% scope="col" ><b>Date</b></th>
-	            <th width =40% scope="col" ><b>Title</b></th>
-	            <th width =15% scope="col" ><b>Slides</b></th>	 
-	            <th width =10% scope="col" ><b>Video</b></th>
-	            <th width =30% scope="col" ><b>Extra Reading</b></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr bgcolor="#ECEFF1">
-                <td align="center">04-08-22</td>
-                <td align="center"><b>Introduction to Graph Machine Leanring + Course logistics</b></td>
-                <td align="center">
-                    <a href="https://drive.google.com/file/d/14OpAqtylts1FX3EjpMyRMfTfIb7wLCi3/view?usp=sharing" target="_blank"><b>PDF</b></a>
-                </td>
-                <td align="center"></td>
-                <td align="center"></td>
-            </tr>
-            <tr bgcolor="#ECEFF1">
-                <td align="center">05-08-22</td>
-                <td align="center"><b>Basics of Graphs</b></td>
-                <td align="center">
-                    <a href="https://drive.google.com/file/d/1vD0fU-i9MHUnr1FMUvOPOumDAfXB2kce/view?usp=sharing" target="_blank"><b>PDF</b></a>
-                </td>
-                <td align="center">
-                    <a href="https://youtu.be/h08RW3AIBVg" target="_blank"><b>Tutorial-1</b></a>
-                </td>
-                <td align="center"></td>
-            </tr>    
-        </tbody>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
 </table>
