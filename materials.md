@@ -36,7 +36,6 @@ permalink: /materials/
 * Additional Learning Material will be added as we move forward in the course
 
 <div class="table table-striped table-bordered" id="schedule" style="margin-top: 20px">
-    <br>
     <table class="table" >
         <thead>
             <tr class="active">
