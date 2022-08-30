@@ -40,11 +40,11 @@ permalink: /materials/
     <table class="table" >
         <thead>
             <tr class="active">
-                <th width =40% scope="col" ><b>Topic</b></th>
-	            <th width =10% scope="col" ><b>Papers Link</b></th>
-	            <th width =15% scope="col" ><b>Github Link</b></th>	 
-	            <th width =10% scope="col" ><b>Additional Videos</b></th>
-	            <th width =15% scope="col" ><b>Blogs</b></th>
+                <th width =10% scope="col" ><b>Date</b></th>
+	            <th width =40% scope="col" ><b>Title</b></th>
+	            <th width =15% scope="col" ><b>Slides</b></th>	 
+	            <th width =10% scope="col" ><b>Video</b></th>
+	            <th width =30% scope="col" ><b>Extra Reading</b></th>
             </tr>
         </thead>
         <tbody>
@@ -143,7 +143,177 @@ permalink: /materials/
                 </td>
                 <td align="center"></td>
                 <td align="center"></td>
-            </tr>   
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 5</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">01-09-22</td>
+                <td align="center"><b>Graph Embedding: Structure Preserving Methods</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">02-09-22</td>
+                <td align="center"><b>Introduction to Graph Deep Learning + Graph Filters (Spectral-based)</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 6</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">08-09-22</td>
+                <td align="center"><b>Spatial-based Graph Filters (GraphSAGE, Graph Attention Network)</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">09-09-22</td>
+                <td align="center"><b>GCN + Message Passing Neural Networks (MPNN)</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 7</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">15-09-22</td>
+                <td align="center"><b>Graph Pooling: Flat and Hierarchical, Downsampling, DiffPool, EigenPool </b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">16-09-22</td>
+                <td align="center"><b>GNN for Complex Graphs: Heterogeneous graph</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 8 & Week 9</th>
+        </tr>
+
+            <tr bgcolor="#da7b93">
+                <td align="center">22-09-22
+                    <br>
+                    to
+                    <br>
+                    30-09-22
+                </td>
+                <td align="center"><b>Mid Semester Examination</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 10</th>
+        </tr>
+
+            <tr bgcolor="#da7b93">
+                <td align="center">06-10-22</td>
+                <td align="center"><b>Holiday</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">07-10-22</td>
+                <td align="center"><b>Knowledge Graph Embedding</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 11</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">13-10-22</td>
+                <td align="center"><b>Knwoledge Graph Embedding + QA over knowledge graph</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">14-10-22</td>
+                <td align="center"><b>Knowledge Graph to Sequence Learning (NLG)</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 12</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">20-10-22</td>
+                <td align="center"><b>GCN for Computer Vision: Visual QA, Zero/Few Shot Image Classification</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">21-10-22</td>
+                <td align="center"><b>GCN for Computer Vision: Multi-label image classification</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 13</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">27-10-22</td>
+                <td align="center"><b>Data Mining: GNN for Social Networks, Recommender systems</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">28-10-22</td>
+                <td align="center"><b>Data Mining: Spatio-temporal GNN</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+
+        <tr bgcolor="#CCCCFF">
+                <th colspan=5 align="center" style="vertical-align:middle;">Week 14</th>
+        </tr>
+
+            <tr bgcolor="#ECEFF1">
+                <td align="center">03-11-22</td>
+                <td align="center"><b>Healthcare: Drug development and discovery, Drug similarity</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+            <tr bgcolor="#ECEFF1">
+                <td align="center">04-11-22</td>
+                <td align="center"><b>Polypharmecy side effect prediction</b></td>
+                <td align="center"></td>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>        
+
+            
         </tbody>
     </table>
 </div>
