@@ -34,3 +34,4 @@ permalink: /materials/
 <h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
 
 * Additional Learning Material will be added as we move forward in the course
+* This section is Temporary: Material will be updated soon 
