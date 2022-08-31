@@ -31,6 +31,9 @@ permalink: /materials/
     - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library [[link]](https://www.dgl.ai/)
     - **Spektral**: Python Based GNN Library [[link]](https://graphneural.network/)
 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 <h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
 
 * Additional Learning Material will be added as we move forward in the course
