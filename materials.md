@@ -12,7 +12,7 @@ permalink: /materials/
 
 <h2 style="color: #da7b93;"><b>Books</b></h2>
 
-1. **Deep Learning on Graphs**, Yao Ma, Jiliang Tang, Cambridge University Press, 2021 **[[link]]**(https://web.njit.edu/~ym329/dlg_book/)
+1. **Deep Learning on Graphs**, Yao Ma, Jiliang Tang, Cambridge University Press, 2021 **[[link]](https://web.njit.edu/~ym329/dlg_book/)**
 2. **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020 [[link]](https://www.cs.mcgill.ca/~wlh/grl_book/)
 3. **Deep Learning**, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016 [[link]](https://www.deeplearningbook.org/)
 4. **Graph Neural Networks**, Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022 [[link]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
