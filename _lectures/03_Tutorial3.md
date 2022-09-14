@@ -9,7 +9,7 @@ links:
       name: notes
     - url: /static_files/Tutorials/Classification_using_graph_embeddings.ipynb
       name: codes
-    - url: https://youtu.be/NAjI6SCZpYc
+    - url: https://youtu.be/eUeCXMpyJK4
       name: Video
 ---
 **Suggested Readings:**
