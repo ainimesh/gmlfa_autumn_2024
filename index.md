@@ -7,6 +7,11 @@ layout: home
 - **Classroom:** Classes will happen in person in the `NC-421`.
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`.
 
+<h2 style="color: #da7b93;"><b>Mid-Semester Exam Schedule</b></h2>
+
+- **Exam Date:** `Thursday, 29-09-2022`.
+- **Time Slot:** `09:00 AM to 11:00 AM (2 Hrs)`.
+- **Venue:** `NC-122`.
 
 <h2 style="color: #da7b93;"><b>Grading Policy</b></h2>
 - Semester Examinations:
