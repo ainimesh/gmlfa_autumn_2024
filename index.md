@@ -13,6 +13,12 @@ layout: home
 - **Time Slot:** `09:00 AM to 11:00 AM (2 Hrs)`.
 - **Venue:** `NC-122`.
 
+<h2 style="color: #da7b93;"><b>End-Semester Exam Schedule</b></h2>
+
+- **Exam Date:** `Thursday, 25-11-2022`.
+- **Time Slot:** `02:00 PM to 05:00 PM (3 Hrs)`.
+- **Venue:** `NC-322`.
+
 <h2 style="color: #da7b93;"><b>Grading Policy</b></h2>
 - Semester Examinations:
     - Mid-Semester Examination: [30%]
