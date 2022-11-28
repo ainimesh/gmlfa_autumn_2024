@@ -52,3 +52,5 @@ There will be only one assignment. Please follow the below given instructions:
 --------------------------------------------------------------------------------------------------------------------------------
 
 **This section contains the information about assignments submitted in the ```Autumn Semester-2022```**
+
+We will update this section soon, stay tuned !
