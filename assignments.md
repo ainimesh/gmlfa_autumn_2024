@@ -44,3 +44,8 @@ There will be only one assignment. Please follow the below given instructions:
 - Google form will be circulated in due time to collect the following:
     - Github link to the code with proper documentation.
     - 15 minutes (max) video link `explaining the project not the code`.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+<h2 style="color: #da7b93;"><b>Assignment Submitted</b></h2>
+
