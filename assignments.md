@@ -47,5 +47,8 @@ There will be only one assignment. Please follow the below given instructions:
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<h2 style="color: #da7b93;"><b>Assignment Submitted</b></h2>
+<h2 style="color: #da7b93;"><b>Assignments Submitted</b></h2>
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+**This section contains the information abput assignemnts submitted in the ```Autumn Semester-2022```**
