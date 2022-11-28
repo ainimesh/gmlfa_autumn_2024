@@ -15,7 +15,7 @@ layout: home
 
 <h2 style="color: #da7b93;"><b>End-Semester Exam Schedule</b></h2>
 
-- **Exam Date:** `Thursday, 25-11-2022`.
+- **Exam Date:** `Friday, 25-11-2022`.
 - **Time Slot:** `02:00 PM to 05:00 PM (3 Hrs)`.
 - **Venue:** `NC-322`.
 
