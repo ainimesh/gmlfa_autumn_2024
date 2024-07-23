@@ -3,13 +3,11 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-**Assignment Timeline Flowchart**
-
-![](/_images/assignment.jpg)
+**Assignment Timeline**
 
 **Key Points**
 
-There will be only one assignment. Please follow the below given instructions:
+<!-- There will be only one assignment. Please follow the below given instructions:
 
 - The students group will pick-up the Topic.
 - Write a Blog Containing:
@@ -30,7 +28,7 @@ There will be only one assignment. Please follow the below given instructions:
 
 **Project Timeline Flowchart**
 
-![](/_images/Project_cropped.jpg)
+
 
 **Proposal Format**
 
@@ -51,6 +49,6 @@ There will be only one assignment. Please follow the below given instructions:
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-**This section contains the information about assignments submitted in the ```Autumn Semester-2022```**
+**This section contains the information about assignments submitted in the ```Autumn Semester-2022```** -->
 
-We will update this section soon, stay tuned !
+We will update this section soon, stay tuned.
