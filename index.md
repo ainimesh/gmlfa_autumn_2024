@@ -7,7 +7,7 @@ layout: home
 - **Classroom:** Nalanda Classroom Complex - `NR-213`
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`
 
-<h2 style="color: #ca7139;"><b>Mid-Semester Exam Schedule</b></h2>
+<!-- <h2 style="color: #ca7139;"><b>Mid-Semester Exam Schedule</b></h2>
 
 - **Exam Date:** 
 - **Time Slot:** 
@@ -17,14 +17,14 @@ layout: home
 
 - **Exam Date:** 
 - **Time Slot:** 
-- **Venue:** 
+- **Venue:**  -->
 
 <h2 style="color: #ca7139;"><b>Grading Policy</b></h2>
 - Semester Examinations:
-    - Mid-Semester Examination: 
-    - End-Semester Examination: 
-- Assignment: 
-- Project: 
+    - Mid-Semester Examination: `25%`
+    - End-Semester Examination: `35%`
+- Assignment: `35%`
+- Attendance: `5%`
 
 <h2 style="color: #ca7139;"><b>Prerequisites</b></h2>
 
