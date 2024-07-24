@@ -11,9 +11,9 @@ items:
   name: Hands-On
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
+# - url: /assignments/
+#   name: Assignments
+#   icon_class: fas fa-user-graduate
 
 - url: /materials/
   name: Course Materials
