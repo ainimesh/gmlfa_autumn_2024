@@ -10,7 +10,7 @@ permalink: /materials/
 {% include image.html url="/_images/dl_on_graphs.jpg" width=135 align="right" %}
 
 
-<h2 style="color: #da7b93;"><b>Books</b></h2>
+<h2 style="color: #ca7139;"><b>Books</b></h2>
 
 1. **Deep Learning on Graphs**, Yao Ma, Jiliang Tang, Cambridge University Press, 2021 **[[link]](https://web.njit.edu/~ym329/dlg_book/)**
 2. **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020 **[[link]](https://www.cs.mcgill.ca/~wlh/grl_book/)**
@@ -18,12 +18,12 @@ permalink: /materials/
 4. **Graph Neural Networks**, Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022 **[[link]](https://link.springer.com/book/10.1007/978-981-16-6054-2)**
 
 -------------------------------------------------------------------------------------------------------------------------------
-<h2 style="color: #da7b93;"><b>Datasets</b></h2>
+<h2 style="color: #ca7139;"><b>Datasets</b></h2>
 
 1. **Open Graph Benchmarks**: **[[link]](https://ogb.stanford.edu/)**
 2. **Network Data**: **[[link]](https://networkrepository.com/networks.php)**
 
-<h2 style="color: #da7b93;"><b>Tools</b></h2>
+<h2 style="color: #ca7139;"><b>Tools</b></h2>
 
 1. **Libraries**
     - **NetworkX**:Network Analysis in Python **[[link]](https://networkx.org/)**
@@ -34,7 +34,7 @@ permalink: /materials/
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
+<h2 style="color: #ca7139;"><b>Additional Course Material</b></h2>
 
 * Additional Learning Material will be added as we move forward in the course
 * This section is Temporary: Material will be updated soon 
