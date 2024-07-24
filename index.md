@@ -26,6 +26,15 @@ layout: home
 - Assignment: `35%`
 - Attendance: `5%`
 
+<h2 style="color: #ca7139;"><b>Assignment Plagiarism Policy</b></h2>
+- Code plagiarism will be checked on the designatated blocks which the students have to code.
+- No penalty till 20% (Baseline).
+- For each 10% increase over baseline will cost 1 mark, Beyond 70% absolute -2 (negative).
+- Two groups having similar code will be penalized with same amount. No arbitration will be done.
+- Late submission policy: One week window with a penalty of 3 marks.
+
+`Advisory:` Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. `[One can always consult TA's on their given emails for any further clarification (or) any help]`
+
 <h2 style="color: #ca7139;"><b>Prerequisites</b></h2>
 
 - Deep Learning: Foundations and Applications (AI61002) or Deep Learning (CS60010)
