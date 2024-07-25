@@ -36,6 +36,12 @@ layout: home
 <p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <code><em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></code></p>
 </div>
 
+<div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px;">
+<h2 style="color: #ca7139;"><b>Assignment Submission Portal</b></h2>
+<p>You can submit the assignments by clicking on this submission portal link.</p>
+<a href="http://kgpmoodlenew.iitkgp.ac.in/moodle/" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Moodle</a>
+</div>
+
 <h2 style="color: #ca7139;"><b>Prerequisites</b></h2>
 
 - Deep Learning: Foundations and Applications (AI61002) or Deep Learning (CS60010)
