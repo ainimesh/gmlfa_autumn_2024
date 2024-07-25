@@ -29,9 +29,9 @@ layout: home
 <ul>
     <li>Code plagiarism will be checked on the designated blocks which the students have to code.</li>
     <li>No penalty till 20% (Baseline).</li>
-    <li>For each 10% increase over baseline will cost 1 mark, Beyond 70% absolute -2 (negative).</li>
+    <li><strong>Each 10% increase over baseline will cost 1 mark, Beyond 70% absolute -2 (negative).</strong></li>
     <li>Two groups having similar code will be penalized with the same amount. No arbitration will be done.</li>
-    <li>Late submission policy: One week window with a penalty of 3 marks.</li>
+    <li><strong>Late submission policy: One week window with a penalty of 3 marks.</strong></li>
 </ul>
 <p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <code><em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></code></p>
 </div>
