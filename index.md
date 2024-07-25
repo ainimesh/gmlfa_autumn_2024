@@ -7,17 +7,6 @@ layout: home
 - **Classroom:** Nalanda Classroom Complex - `NR-213`
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`
 
-<!-- <h2 style="color: #ca7139;"><b>Mid-Semester Exam Schedule</b></h2>
-
-- **Exam Date:** 
-- **Time Slot:** 
-- **Venue:** 
-
-<h2 style="color: #ca7139;"><b>End-Semester Exam Schedule</b></h2>
-
-- **Exam Date:** 
-- **Time Slot:** 
-- **Venue:**  -->
 
 <h2 style="color: #ca7139;"><b>Grading Policy</b></h2>
 - Semester Examinations:
@@ -39,7 +28,10 @@ layout: home
 
 - Deep Learning: Foundations and Applications (AI61002) or Deep Learning (CS60010)
 
+
+<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
 <h2 style="color: #ca7139;"><b>Honor Code</b></h2>
 Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
+</div>
