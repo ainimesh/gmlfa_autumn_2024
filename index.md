@@ -52,3 +52,7 @@ Academic integrity is very important for us. You are required to follow the hono
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
 
+<div style="background-color: #e6f2ff; padding: 15px; border-radius: 5px; margin-top: 20px;">
+    <h2 style="color: #ca7139;"><b>Previous Offerings</b></h2>
+    <a href="https://ainimesh.github.io/GMLFA-AI60007/" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Autumn-22</a>
+</div>
