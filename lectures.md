@@ -3,4 +3,6 @@ layout: lectures
 title: Hands-on
 permalink: /lectures/
 ---
-All the hands-on videos and tutorials will be posted here.
+<div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px; margin-top: 20px;">
+<p>All the hands-on videos and tutorials will be posted here.</p>
+</div>
