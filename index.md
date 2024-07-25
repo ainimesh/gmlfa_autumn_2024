@@ -1,11 +1,20 @@
 ---
 layout: home
 ---
+<div style="background-color: #e6f2ff; padding: 15px; border-radius: 5px;">
 <h2 style="color: #ca7139;"><b>Course Logistics</b></h2>
-
-- **Lecture Hours:** `Wednesday [11:00 PM to 11:55 PM]`,`Thursday [12:00 PM to 12:55 PM]` and `Friday [08:00 AM to 08:55 AM]`
-- **Classroom:** Nalanda Classroom Complex - `NR-213`
-- **L-T-P & Credits:** `3-0-0` & `3 Credits`
+<ul>
+    <li><strong>Lecture Hours:</strong>
+        <ul>
+            <li>Wednesday [11:00 PM to 11:55 PM]</li>
+            <li>Thursday [12:00 PM to 12:55 PM]</li>
+            <li>Friday [08:00 AM to 08:55 AM]</li>
+        </ul>
+    </li>
+    <li><strong>Classroom:</strong> Nalanda Classroom Complex - <code>NR-213</code></li>
+    <li><strong>L-T-P & Credits:</strong> <code>3-0-0</code> & <code>3 Credits</code></li>
+</ul>
+</div>
 
 
 <h2 style="color: #ca7139;"><b>Grading Policy</b></h2>
