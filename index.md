@@ -33,8 +33,9 @@ layout: home
     <li>Two groups having similar code will be penalized with the same amount. No arbitration will be done.</li>
     <li><strong>Late submission policy: One week window with a penalty of 3 marks.</strong></li>
 </ul>
-<p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></p>
+<p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <code><em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></code></p>
 </div>
+
 
 <div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px; margin-top: 20px;">
 <h2 style="color: #ca7139;"><b>Assignment Submission Portal</b></h2>
