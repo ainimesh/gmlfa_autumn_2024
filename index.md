@@ -32,3 +32,15 @@ layout: home
 Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.
 - Your solutions against assignments, tests must be entirely your own (Exception: You may collaborate if instructed by the faculty).
 - You may not share your solutions for the scheduled assignments and tests with your peers unless instructed by the faculty.
+
+<div style="background-color: #fff0e6; padding: 15px; border-radius: 5px;">
+<h2 style="color: #ca7139;"><b>Assignment Plagiarism Policy</b></h2>
+<ul>
+    <li>Code plagiarism will be checked on the designated blocks which the students have to code.</li>
+    <li>No penalty till 20% (Baseline).</li>
+    <li>For each 10% increase over baseline will cost 1 mark, Beyond 70% absolute -2 (negative).</li>
+    <li>Two groups having similar code will be penalized with the same amount. No arbitration will be done.</li>
+    <li>Late submission policy: One week window with a penalty of 3 marks.</li>
+</ul>
+<p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></p>
+</div>
