@@ -6,7 +6,7 @@ layout: home
 <ul>
     <li><strong>Lecture Hours:</strong>
         <ul>
-            <li>Wednesday [11:00 PM to 11:55 PM]</li>
+            <li>Wednesday [11:00 AM to 11:55 AM]</li>
             <li>Thursday [12:00 PM to 12:55 PM]</li>
             <li>Friday [08:00 AM to 08:55 AM]</li>
         </ul>
