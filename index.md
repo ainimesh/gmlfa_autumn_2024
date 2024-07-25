@@ -24,7 +24,7 @@ layout: home
 - Assignment: `35%`
 - Attendance: `5%`
 
-<div style="background-color: #fff0e6; padding: 15px; border-radius: 5px;">
+<div style="background-color: #fff0e6; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
 <h2 style="color: #ca7139;"><b>Assignment Plagiarism Policy</b></h2>
 <ul>
     <li>Code plagiarism will be checked on the designated blocks which the students have to code.</li>
@@ -33,10 +33,10 @@ layout: home
     <li>Two groups having similar code will be penalized with the same amount. No arbitration will be done.</li>
     <li><strong>Late submission policy: One week window with a penalty of 3 marks.</strong></li>
 </ul>
-<p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <code><em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></code></p>
+<p><strong>Advisory:</strong> Using GenAI tools for solving assignment is discouraged as this will increase the probability of plagiarism with others who may choose the same path. <em>[One can always consult TA's on their given emails for any further clarification (or) any help]</em></p>
 </div>
 
-<div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px;">
+<div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px; margin-top: 20px;">
 <h2 style="color: #ca7139;"><b>Assignment Submission Portal</b></h2>
 <p>You can submit the assignments by clicking on this submission portal link.</p>
 <a href="http://kgpmoodlenew.iitkgp.ac.in/moodle/" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Moodle</a>
