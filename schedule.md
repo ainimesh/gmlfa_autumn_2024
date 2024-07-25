@@ -3,4 +3,7 @@ layout: schedule
 title: Schedule
 permalink: /schedule/
 ---
-This is tentative course schedule, changes will be announced in the class if any and will be updated here as well.
+
+<div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px; margin-top: 20px;">
+<p>This is tentative course schedule, changes will be announced in the class if any and will be updated here as well.</p>
+</div>
