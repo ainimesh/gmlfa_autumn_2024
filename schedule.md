@@ -6,4 +6,5 @@ permalink: /schedule/
 
 <div style="background-color: #e6ffe6; padding: 15px; border-radius: 5px; margin-top: 20px;">
 <p><strong>This is tentative course schedule, changes will be announced in the class if any and will be updated here as well.</strong></p>
+<p>Please Refresh if you are not able to see the changes!</p>
 </div>
