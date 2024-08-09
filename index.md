@@ -41,6 +41,7 @@ layout: home
 <h2 style="color: #ca7139;"><b>Assignment Submission Portal</b></h2>
 <p>You can submit the assignments by clicking on this submission portal link.</p>
 <a href="http://kgpmoodlenew.iitkgp.ac.in/moodle/" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Moodle</a>
+<p>Assignment 1 due date: [23-08-2024]</p>
 </div>
 
 <h2 style="color: #ca7139;"><b>Prerequisites</b></h2>
