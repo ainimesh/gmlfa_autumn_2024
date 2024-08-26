@@ -43,6 +43,7 @@ layout: home
     <a href="http://kgpmoodlenew.iitkgp.ac.in/moodle/" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Moodle</a>
     <a href="https://drive.google.com/file/d/1X7wuGw8nZn2a5Nr8lpHQrBsv4AbMGokB/view?usp=sharing" target="_blank" style="display: inline-block; background-color: #f44336; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Course Groups</a>
     <p>Assignment 1 due date: [23-08-2024]</p>
+    <p>Assignment 1 due date: [13-09-2024]</p>
 </div>
 
 <h2 style="color: #ca7139;"><b>Prerequisites</b></h2>
