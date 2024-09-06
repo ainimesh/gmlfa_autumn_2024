@@ -6,11 +6,12 @@
             <li style="padding: 5px 0;">Moodle accounts have been created for everyone. You may visit <a href="http://kgpmoodlenew.iitkgp.ac.in/moodle/" target="_blank" style="color: #0066cc; text-decoration: none;"><b>Moodle</b></a>.</li>
             <li style="padding: 5px 0;">Material updated for 09-08-24, on the schedule page, <b>kindly refresh</b> to reflect the changes.</li>
             <li style="padding: 5px 0; color: green;"><b>Assignment-1</b> has been announced, please check your moodle accounts.</li>
-            <li style="padding: 5px 0; color: rgb(1, 1, 50);">Groups have been formed and pdf is avaialble at <b>Assignment</b> section.</li>
+            <li style="padding: 5px 0; color: rgb(1, 1, 50);">Groups have been formed and pdf is available at <b>Assignment</b> section.</li>
             <li style="padding: 5px 0; color: green;"><b>Assignment-2</b> has been announced, please check your moodle accounts.</li>
             <li style="padding: 5px 0; color: rgb(128, 0, 0);"><b>Assignment-1</b> marks have been released, please check your moodle accounts.</li>
         </ul>
     </div>
+    <button id="show-more-btn" style="margin-top: 10px; padding: 5px 10px; background-color: #ca7139; color: white; border: none; border-radius: 3px;">Show More</button>
 </div>
 
 <style>
@@ -20,7 +21,7 @@
 
 @keyframes ticker {
     0% { top: 0; }
-    100% { top: -100px; } /* Adjusted to match the new height */
+    100% { top: -100px; } /* Adjusted to match the height */
 }
 
 .news-ticker:hover .ticker-list {
@@ -31,4 +32,31 @@
     list-style-type: disc;
     margin-left: 15px;
 }
+
+/* Hide the full list initially */
+.news-ticker.expanded {
+    height: auto;
+    overflow: visible;
+}
+
+.news-ticker.expanded .ticker-list {
+    position: static;
+    animation: none;
+}
 </style>
+
+<script>
+document.getElementById('show-more-btn').addEventListener('click', function() {
+    const ticker = document.querySelector('.news-ticker');
+    const button = document.getElementById('show-more-btn');
+
+    // Toggle the expanded class
+    if (ticker.classList.contains('expanded')) {
+        ticker.classList.remove('expanded');
+        button.textContent = 'Show More';
+    } else {
+        ticker.classList.add('expanded');
+        button.textContent = 'Show Less';
+    }
+});
+</script>
