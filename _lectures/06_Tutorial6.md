@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-09-12
-title: Link Prediction using GNNs (Transductive vs Inductive Learning): Part-1.
+title: Link Prediction using GNNs (Transductive vs Inductive Learning)-Part_1.
 tldr: "In this tutorial we will first understand how we can slpit the given data for the link prediction task. Later on we will see how can we do link prediction on Cora Dataset."
 thumbnail: /static_files/Tutorials/output.png
 links: 
