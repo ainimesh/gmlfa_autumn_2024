@@ -45,6 +45,7 @@ layout: home
     <p>Assignment 1 due date: [23-08-2024]</p>
     <p>Assignment 2 due date: [13-09-2024]</p>
     <p>Assignment 3 due date: [17-10-2024]</p>
+    <p>Assignment 4 due date: [31-10-2024]</p>
 
 </div>
 
